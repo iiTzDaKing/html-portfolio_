@@ -1,0 +1,8 @@
+.center{text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    }
+
+*{background-color: rgb(8, 10, 20);
+    color: whitesmoke}
